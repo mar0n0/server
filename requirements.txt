@@ -1,3 +1,4 @@
 flask
 quart
 hypercorn
+psycopg2
